@@ -1,0 +1,4 @@
+org.mule.module.chatter
+org.mule.module.chatter.config
+org.mule.module.chatter.config.spring
+

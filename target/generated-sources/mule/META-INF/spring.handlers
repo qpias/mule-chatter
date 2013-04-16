@@ -1,0 +1,2 @@
+http\://www.mulesoft.org/schema/mule/chatter=org.mule.module.chatter.config.spring.ChatterModuleNamespaceHandler
+http\://www.mulesoft.org/schema/mule/chatter=org.mule.module.chatter.config.spring.ChatterModuleNamespaceHandler
